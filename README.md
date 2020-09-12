@@ -1,16 +1,14 @@
-### Hi there 👋
+## Hi there 👋
 
-<!--
-**amrata67/amrata67** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+My name is Amrata Raykar. I am a graduate student in Computer Science at University at Buffalo and a software engineer with avid integerest in Algorithms, Data Structures and Databases. I have 2 years of professional work experience at Informatica Business Solutions during which I worked on Data Integration on Informatica Cloud and Master Data Management, involving me in complete Software Development Life Cycle.  
 
-Here are some ideas to get you started:
+I come with a solid programming expertise in JAVA, Python, C, Object Oriented Designs/methodologies. Enthusiastic team player, a fast learner with creative problem solving and communication skills.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I am currently learning Kafka messaging components which today forms a platform for high-end distributed applications. I would love to hear and discuss on modern technologies you are working on. Feel free to contact me on:
+
+Email: amrata67@gmail.com
+
+LinkedIn: https://www.linkedin.com/in/amrataraykar/
+
+Personal Blog: https://araykar.wordpress.com/ 
+ 
