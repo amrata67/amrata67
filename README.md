@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-My name is Amrata Raykar. I am a graduate student in Computer Science at University at Buffalo and a software engineer with avid interest in Algorithms, Data Structures and Databases. I have 2 years of professional work experience at Informatica Business Solutions, working on Data Integration using Informatica cloud and Master Data Management, which involved me in complete Software Development Life Cycle.  
+My name is Amrata Raykar. I am a graduate student in Computer Science at University at Buffalo and a software engineer with avid interest in Algorithms, Data Structures and Databases. I have 2 years of professional work experience at Informatica Business Solutions, working on data integration on Informatica cloud and Master Data Management, which involved me in complete Software Development Life Cycle.  
 
 I come with a solid programming expertise in JAVA, Python, C, Object Oriented Designs/methodologies. Enthusiastic team player, a fast learner with creative problem solving and great communication skills.
 
