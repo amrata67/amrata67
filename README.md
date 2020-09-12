@@ -4,7 +4,7 @@ My name is Amrata Raykar. I am a graduate student in Computer Science at Univers
 
 I come with a solid programming expertise in JAVA, Python, C, Object Oriented Designs/methodologies. Enthusiastic team player, a fast learner with creative problem solving and great communication skills.
 
-I am currently learning Kafka messaging components to gain in-depth knowledge in distribted events. I would love to hear and discuss on modern technologies you are working on. Feel free to contact me on:
+I am currently learning Kafka messaging components to gain in-depth knowledge in distributed events. I would love to hear and discuss on modern technologies you are working on. Feel free to contact me on:
 
 Email: amrata67@gmail.com
 
